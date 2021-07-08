@@ -1,6 +1,6 @@
 # Construindo um projeto de uma API.NET integrada ao MongoDB
 
-	Modificado por Douglas Vinicius
+	Modificado por Douglas Martin
 <p align="center"><img src="./Charts.jpg" width="500"></p>
 
 -----------------------------------------------
