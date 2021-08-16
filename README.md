@@ -1,18 +1,10 @@
-# Construindo um projeto de uma API.NET integrada ao MongoDB
+<hr/>
+<div align="center">
+    <h1>Desenvolvimento de aplicações com .NET</h1>
+    <h2><i>Construindo um projeto de uma API.NET integrada ao MongoDB</i></h2>
+    <p align="center"><img src="./Charts.jpg" width="500"></p>
 
-	Modificado por Douglas Martin
-<p align="center"><img src="./Charts.jpg" width="500"></p>
-
------------------------------------------------
------------------------------------------------
-# Original
-# dotnet-mongo
-
-Exemplo de aplicação .net core com mongodb.
-
-Para teste:
-
-https://localhost:5001/infectado
+    https://localhost:5001/infectado
 
 ```json
 {
@@ -22,33 +14,14 @@ https://localhost:5001/infectado
 	"longitude": -46.6565712
 }
 ```
-OBS: é preciso ter configurar o acesso ao banco no appsettings.
 
-Links Uteis:
-
-- github - Gabriel Faraday - https://github.com/gabrielfbarros
-
-- .zip - https://hermes.digitalinnovation.one/lab_projects/files/055af7c1-5197-4ec1-aa0f-3ed2f532c128.zip
-
-- DIO - https://web.digitalinnovation.one/project/construindo-um-projeto-de-uma-apinet-integrada-ao-mongodb
-
-- .net core - https://dotnet.microsoft.com/download
-
-- visual code - https://code.visualstudio.com/download
-
-- postman - https://www.postman.com/downloads/
-
-- mongo atlas - https://www.mongodb.com/cloud/atlas/register
-
-
------------------------------------------------
-
-Referências:
-
-https://docs.mongodb.com/
-
-https://docs.mongodb.com/manual/
-
-https://docs.mongodb.com/ecosystem/drivers/csharp/
-
-https://docs.atlas.mongodb.com/
+    <h3>Este repositório é um projeto do Bootcamp .NET Developer - Digital Innovation One.</h3>
+    <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150">
+    <i>Desenvolvimento de aplicações com .NET</i>
+ </div>    
+<hr/>
+<div align="center">
+    <b>Repositório de referência:</b><br>
+    <a href="https://web.digitalinnovation.one/project/construindo-um-projeto-de-uma-apinet-integrada-ao-mongodb"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+    <hr/>
+</div>
