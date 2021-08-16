@@ -8,8 +8,3 @@
     <i>Desenvolvimento de aplicações com .NET</i>
  </div>    
 <hr/>
-<div align="center">
-    <b>Repositório de referência:</b><br>
-    <a href="https://web.digitalinnovation.one/project/construindo-um-projeto-de-uma-apinet-integrada-ao-mongodb"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-    <hr/>
-</div>
